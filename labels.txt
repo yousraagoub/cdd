@@ -1,0 +1,4 @@
+0 Healthy
+1 Septoria
+2 Stripe Rust
+3 Unknown

@@ -1,0 +1,4 @@
+.venv
+analysis-images
+__pycache__
+web_database.db
